@@ -14,7 +14,7 @@
 3. Блок повинен складатися з двох частин, перша опис профілю, друга статистика, досягти цього можна за допомогою float(https://learn.javascript.ru/float)
 4. В першій частині profile - повинна бути фотографія профілю - ось посилання на фото - https://i.pinimg.com/474x/82/ab/35/82ab3533ee71daf256f23c1ccf20ad6f--avatar-maker.jpg
 5. При наведенні на картинку вона повинна обертатися на 360 градусів
-6. Блок із діями(like, follow, message) - іконки замінити на інші з https://fontawesome.com/v5.15/icons, іконки повинні бути виконані за допомогою тегу button(https://www.w3schools.com/tags/tag_button.asp)
+6. Блок із діями(like, follow, message) - іконки замінити на інші з https://fontawesome.com/v5.15/icons, блоки повинні бути виконані за допомогою тегу button(https://www.w3schools.com/tags/tag_button.asp)
 7. При наведенні на кожну дію - збільшується border, font-weight, відбувається rotate
 
 !["Hover"](./hover-action.png)
